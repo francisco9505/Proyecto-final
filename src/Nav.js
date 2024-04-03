@@ -3,7 +3,7 @@ import React from 'react'
 export const Nav = () => {
   return (
     <>
-      <ul>
+      <ul className='navbar'>
         <li>
           {" "}
           <img src="https://play-lh.googleusercontent.com/t_XvMjLc2uxTVXMiQatnBGbmRDuu_6-5cbPzJJhyaPyBh4iPAqqJ2MwOo0JAxScRwUqL"></img>
